@@ -1,2 +1,4 @@
 # congRess
-R package forinteracting with the Congress API
+R package for interacting with the Congress API
+
+Specs found at https://api.congress.gov/
